@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XdDDmqGByqUgxuAORwQvy/CD21EnZAb6YNxBmTahm92RVGPGERDlEzCFFh+eVubKGv7264E8Pzh7GcpBzA/U/A==",
+  "dgSpecHash": "zdXSc5XH5fcXYGxmLrsYdzzpn4EZ5O5i01VhjPzeQ3eHFeo20fOTmL04GBQoiJT4r6r+V+yoFWOR2pYPjpEWnA==",
   "success": true,
-  "projectFilePath": "D:\\WEB\\City\\City\\City.csproj",
+  "projectFilePath": "C:\\GIT\\City\\City\\City\\City.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

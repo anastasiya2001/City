@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WEB\\City\\City\\City.csproj": {}
+    "C:\\GIT\\City\\City\\City\\City.csproj": {}
   },
   "projects": {
-    "D:\\WEB\\City\\City\\City.csproj": {
+    "C:\\GIT\\City\\City\\City\\City.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WEB\\City\\City\\City.csproj",
+        "projectUniqueName": "C:\\GIT\\City\\City\\City\\City.csproj",
         "projectName": "City",
-        "projectPath": "D:\\WEB\\City\\City\\City.csproj",
+        "projectPath": "C:\\GIT\\City\\City\\City\\City.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\WEB\\City\\City\\obj\\",
+        "outputPath": "C:\\GIT\\City\\City\\City\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
