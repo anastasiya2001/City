@@ -1,0 +1,382 @@
+﻿@using News.EF;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+	<title>WebMag HTML Template</title>
+
+	<!-- Google font -->
+	<!--<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:700%7CNunito:300,600" rel="stylesheet">-->
+	<!-- Bootstrap -->
+	<link type="text/css" rel="stylesheet" href="/css/bootstrap.min.css" />
+
+	<!-- Font Awesome Icon -->
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+	<!-- Custom stlylesheet -->
+	<link type="text/css" rel="stylesheet" href="/css/style.css" />
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+/* Кнопка, используемая для открытия формы чата - закреплена в нижней части страницы */
+.open-button {
+  color: black;
+  padding: 16px 20px;
+  border-width: 1px;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+/* Всплывающий чат - скрыт по умолчанию */
+.chat-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+/* Добавление стилей в контейнер формы */
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+/* Полноразмерная текстовая область */
+.form-container textarea {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+  resize: none;
+  min-height: 200px;
+}
+
+/* Когда текстовая область получит фокус, сделайте что-нибудь */
+.form-container textarea:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Установите стиль для кнопки отправить/кнопка */
+.form-container .btn {
+  color: black;
+  padding: 16px 20px;
+  border-width: 1px;
+  border-color: black;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+/* Добавьте красный цвет фона к кнопке отмена */
+.form-container .cancel {
+}
+
+/* Добавьте некоторые эффекты наведения на кнопки */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+</style>
+
+</head>
+	<body>
+
+		<!-- Header -->
+		<header id="header">
+			<!-- Nav -->
+			<div id="nav">
+				<!-- Main Nav -->
+				<div id="nav-fixed" class="slide-down">
+					<div class="container">
+						<!-- logo -->
+						<div class="nav-logo">
+							<a href="/" class="logo"><img src="/img/logo1.png" alt=""></a>
+						</div>
+						<!-- /logo -->
+						<nav>
+						<ul class="nav-menu nav navbar-nav">
+							@foreach (Reblicator r in ViewBag.Rubrics)
+							{
+								<li><a href="/News/NewShow/@r.Path">@r.Name</a></li>                                                
+							}     
+						</ul>
+						</nav >
+						<!-- search & aside toggle -->
+							<div class="nav-btns">
+								<button class="aside-btn"><i class="fa fa-bars"></i></button>
+							<!----<button class="aside-btn"><i class="fa fa-bars"></i></button>--->
+							<button class="search-btn"><i class="fa fa-search"></i></button>
+							<div class="search-form">
+								<form action="/News/Search">
+									<input class="search-input" type="text" placeholder="Введите свой запрос ..." name="text">								
+									<button class="search-close"><i class="fa fa-times"></i></button>
+								</form>
+							</div>
+						</div>
+						<!-- /search & aside toggle -->
+					</div>
+				</div>
+				<!-- /Main Nav -->
+				<!-- Aside Nav -->
+
+					<!-- /nav -->
+					<!-- widget posts -->
+					
+					<!-- /widget posts -->
+					<!-- social links -->
+					
+					<!-- /social links -->
+					<!-- aside nav close -->
+					<div id="nav-aside" class="active">
+					<!-- nav -->
+					<div class="section-row">
+						<ul class="nav-aside-menu">
+							@foreach (Reblicator r in ViewBag.Rubrics)
+							{
+								<li><a href="/News/NewShow/@r.Path">@r.Name</a></li>                                                
+							} 
+						</ul>
+					</div>
+					<!-- /nav -->
+
+					<!-- widget posts -->
+					<div class="section-row">
+						<h3>Актуальное</h3>
+						<div class="post post-widget">
+							<a class="post-img" href="blog-post.html"><img src="/img/3.jpg" alt=""></a>
+							<div class="post-body">
+								<h3 class="post-title"><a href="/News/NewShow/Politic">Идеи губернаторов войдут в список...</a></h3>
+							</div>
+						</div>
+
+						<div class="post post-widget">
+							<a class="post-img" href="blog-post.html"><img src="/img/2.jpg" alt=""></a>
+							<div class="post-body">
+								<h3 class="post-title"><a href="/News/NewShow/Fashion">Gucci стал самым...</a></h3>
+							</div>
+						</div>
+
+					</div>
+					<!-- /widget posts -->
+
+					<!-- social links -->
+					 
+					<!-- /social links -->
+
+					<!-- aside nav close -->
+					<button class="nav-aside-close"><i class="fa fa-times"></i></button>
+					<!-- /aside nav close -->
+
+				</div>
+					<!-- /aside nav close -->
+
+				</div>
+				<!-- Aside Nav -->
+			</div>
+			<!-- /Nav -->
+		</header>
+		<!-- /Header -->
+		<!-- section -->
+		<div class="section">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">
+					<!-- post -->
+					<div class="col-md-6">
+						<div class="post post-thumb">
+							<a class="post-img" href="/News/NewShow/Politic"><img src="/img/3.jpg" alt=""width="200" height="400"></a>
+							<div class="post-body">
+								<div class="post-meta">
+									<a class="post-category cat-3" href="/News/NewShow/Politic">Политика</a>
+									<span class="post-date">@DateTime.Now.ToString("dd.MM.yyyy")</span>
+								</div>
+								<h3 class="post-title"><a href="/News/NewShow/Politic">Идеи губернаторов войдут в список поручений Путина по соцподдержке граждан</a></h3>
+							</div>
+						</div>
+					</div>
+					<!-- /post -->
+					<!-- post -->
+					<div class="col-md-6">
+						<div class="post post-thumb">
+								<a class="post-img" href="/News/NewShow/Fashion"><img src="/img/2.jpg" alt="" width="200" height="400"></a>
+								<div class="post-body">
+									<div class="post-meta">
+										<a class="post-category cat-3" href="/News/NewShow/Fashion">Мода</a>
+										<span class="post-date">@DateTime.Now.AddDays(-1).ToString("dd.MM.yyyy")</span>
+									</div>
+									<h3 class="post-title"><a href="/News/NewShow/Fashion">Gucci стал самым дорогим итальянским брендом</a></h3>
+								</div>
+						</div>
+					</div>
+					<!-- /post -->
+					
+				</div>
+				<!-- /row -->
+				<!-- row -->
+
+				<!-- /row -->
+				<!-- row -->
+				<div class="row">
+					<div class="col-md-8">
+						<div class="row">
+							<!-- post -->
+							
+							<!-- /post -->
+
+							<div class="clearfix visible-md visible-lg"></div>
+
+							<!-- post -->
+							<div class="section">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">
+					<div class="col-md-8">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="section-title">
+									<h2>Новости</h2>
+								</div>
+							</div>
+							<div class="col-8">
+							<!-- /post -->
+							<!-- post -->
+							@RenderBody()
+							</div>
+							
+						</div>
+						
+					</div>
+				</div>
+
+			</div>
+				<!-- /row -->
+		</div>
+							<!-- /post -->
+
+							
+						</div>
+					</div>
+
+					<div class="col-md-4">
+						<!-- post widget -->
+						<div class="aside-widget">
+							<div class="section-title">
+								<h3>Чат</h3>
+							</div>
+
+							<div class="col-4" id="chat">
+                        <div id="chatMessages">
+                        </div>
+
+
+                    </div>
+						</div>
+						<!-- /post widget -->
+						<button class="open-button" onclick="openForm()">Чат</button>
+
+<div class="chat-popup" id="myForm">
+  <form action="../action_page.php" class="form-container">
+    <h1>Чат</h1>
+
+    <label for="msg"><b>Сообщение</b></label>
+     <iframe id="addMessageFrame" style="display: none"> </iframe>
+	<input type="text" id="message"/>
+    <button type="button" class="btn btn-outline-dark" id="addMessage">Отправить</button>
+    <button type="button" class="btn cancel" onclick="closeForm()">Закрыть</button>
+  </form>
+</div>
+
+<script>
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
+</script>
+
+						<!-- post widget -->
+						
+						<!-- /post widget -->
+						
+						<!-- ad -->
+						
+						<!-- /ad -->
+					</div>
+
+				</div>
+				<!-- /row -->
+			
+			</div>
+			<!-- /container -->
+		</div>
+		<!-- /section -->
+		<!-- section -->
+		<!-- /section -->
+		<!-- section -->
+		
+			<!-- /container -->
+			
+		<script>  
+        const elChatMessages = document.getElementById('chatMessages');
+        const elAddMessage = document.getElementById('addMessage');
+        const elMessage = document.getElementById('message');
+        const elAddMessageFrame = document.getElementById('addMessageFrame');
+
+        elAddMessage.addEventListener("click", () => {
+            elAddMessageFrame.src = "/Chat/AddMessage?message=" + elMessage.value;
+        });
+
+        setInterval(() => {
+            fetch('/Chat/Messages').
+                then(response => response.json())
+                .then(data => {
+                    elChatMessages.innerHTML = '';
+                    for (msg of data) {
+                        elChatMessages.insertAdjacentHTML('afterbegin', `<p>${msg.message}</p>`);            
+                    }
+                });            
+
+        }, 2000);
+		</script>
+
+		<!-- /section -->
+		<!-- Footer -->
+		<!-- /Footer -->
+		<!-- jQuery Plugins -->
+		<script src="/js/jquery.min.js"></script>
+		<script src="/js/bootstrap.min.js"></script>
+		<script src="/js/main.js"></script>
+
+
+
+
+	</body>
+</html>

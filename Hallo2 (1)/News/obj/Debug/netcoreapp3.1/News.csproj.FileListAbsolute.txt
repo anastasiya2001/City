@@ -1,0 +1,296 @@
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\News.exe
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\News.deps.json
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\News.runtimeconfig.json
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\News.runtimeconfig.dev.json
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\News.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\News.pdb
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\News.Views.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\News.Views.pdb
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.csproj.AssemblyReference.cache
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.AssemblyInfoInputs.cache
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.AssemblyInfo.cs
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.csproj.CoreCompileInputs.cache
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.MvcApplicationPartsAssemblyInfo.cache
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.RazorAssemblyInfo.cache
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.RazorAssemblyInfo.cs
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\staticwebassets\News.StaticWebAssets.Manifest.cache
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.TagHelpers.input.cache
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.TagHelpers.output.cache
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.RazorCoreGenerate.cache
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.RazorTargetAssemblyInfo.cache
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.RazorTargetAssemblyInfo.cs
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.Views.pdb
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.dll
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.pdb
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.genruntimeconfig.cache
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\News.csproj.CopyComplete
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\Razor\Views\News\Show.cshtml.g.cs
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\Razor\Views\News\NewShow.cshtml.g.cs
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\Razor\Views\News\Master.cshtml.g.cs
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\Razor\Views\News\Search.cshtml.g.cs
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\Razor\Views\News\SearchNoResults.cshtml.g.cs
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WEB\Hallo2\News\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\Razor\Views\Chat\Messages.cshtml.g.cs
+D:\WEB\Hallo2\News\obj\Debug\netcoreapp3.1\Razor\Views\News\TrendingNews.cshtml.g.cs
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\News.exe
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\News.deps.json
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\News.runtimeconfig.json
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\News.runtimeconfig.dev.json
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\News.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\News.pdb
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\News.Views.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\News.Views.pdb
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.csproj.AssemblyReference.cache
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.AssemblyInfoInputs.cache
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.AssemblyInfo.cs
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.csproj.CoreCompileInputs.cache
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.MvcApplicationPartsAssemblyInfo.cache
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.RazorAssemblyInfo.cache
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.RazorAssemblyInfo.cs
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\staticwebassets\News.StaticWebAssets.Manifest.cache
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.TagHelpers.input.cache
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.TagHelpers.output.cache
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.RazorCoreGenerate.cache
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\Razor\Views\Chat\Messages.cshtml.g.cs
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\Razor\Views\News\Master.cshtml.g.cs
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\Razor\Views\News\NewShow.cshtml.g.cs
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\Razor\Views\News\Search.cshtml.g.cs
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\Razor\Views\News\SearchNoResults.cshtml.g.cs
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\Razor\Views\News\Show.cshtml.g.cs
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\Razor\Views\News\TrendingNews.cshtml.g.cs
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.RazorTargetAssemblyInfo.cache
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.RazorTargetAssemblyInfo.cs
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.Views.pdb
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.csproj.CopyComplete
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.dll
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.pdb
+D:\Home\Downloads\Hallo2 (1)\Hallo2 (1)\News\obj\Debug\netcoreapp3.1\News.genruntimeconfig.cache

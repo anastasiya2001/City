@@ -1,0 +1,31 @@
+﻿@using News.EF
+@{
+    Layout = "Master.cshtml";
+}
+    <h1>@ViewBag.Publication.Title</h1>         
+    <p>@ViewBag.Publication.Date.ToString("dd.MM.yyyy")</p>
+    <img src="/img/@(ViewBag.Publication.Id).jpg" alt="@ViewBag.Publication.Title" width="444" height="350"/>
+    <p>@ViewBag.Publication.Announce</p>
+    <p>@ViewBag.Publication.Body</p>
+
+    <div>
+        @foreach (Comment comment in ViewBag.Comments) {
+            <div>                
+                @comment.DateTime.ToString("dd.MM.yyyy HH:mm:ss")
+                <b>@comment.Nick</b>: @comment.Text
+            </div>
+        }
+    </div>
+							
+    <form action="/News/NewShow/@ViewBag.Publication.Path" method="post">
+        <div>
+            Ник: <input type="text" name="nick"/>
+        </div>
+        <div>
+            <textarea cols="80" rows="5" name="text"></textarea>    
+        </div>
+        <button type="submit">
+            Отправить комментарий
+        </button>
+    </form>
+

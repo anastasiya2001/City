@@ -1,0 +1,24 @@
+﻿@using News.EF;
+@{
+    Layout = "Master.cshtml";
+}
+
+<span>Найденные публикации по запросу:</span>
+@foreach (Publication p in ViewBag.Publications)
+                        {
+                        <div class="trand-right-single d-flex">
+                            <div class="trand-right-img">
+                                <img src="/img/@(p.Id).jpg" alt="@p.Title" width="444" height="350">
+                            </div>
+                            <div class="trand-right-cap">
+                                <span class="color1">
+                                     <p>@p.Date.ToString("dd.MM.yyyy")</p>
+                                    <a href="/News/NewShow/@p.Path">
+                                        @p.Title
+                                    </a>
+                                </span>
+
+                                <h4>@p.Announce</h4>
+                            </div>
+                        </div>                        
+                        }

@@ -1,0 +1,4 @@
+﻿@using News.EF
+@foreach (ChatMessage message in ViewBag.Messages) {
+    <p>@message.Message</p>
+}
